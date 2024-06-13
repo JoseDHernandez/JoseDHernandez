@@ -49,42 +49,51 @@
 
 ### 🛠️ Skills:
 
-- **Programming Languages:** 
+- **Programming Languages:**
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- **Web Development:** 
+- **Web Development:**
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- **Databases:** 
+- **Databases:**
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- **Frameworks and Libraries:** 
+- **Frameworks and Libraries:**
+  
   ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-- **Application Development:** 
+- **Application Development:**
+  
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- **Version Control:** 
+- **Version Control:**
+  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- **API Integration and Development:** 
+- **API Integration and Development:**
+  
   ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-000000?style=for-the-badge&logo=restful&logoColor=white)
   ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=websockets&logoColor=white)
-- **Tools and IDEs:** 
+- **Tools and IDEs:**
+  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 - **Agile Methodologies:** 
 
   ![Kanban](https://img.shields.io/badge/-Kanban-007ACC?style=for-the-badge&logo=kanban&logoColor=white)
-- **Other:** 
+- **Other:**
+  
   ![Responsive Design](https://img.shields.io/badge/-Responsive_Design-0096D6?style=for-the-badge&logo=responsive-design&logoColor=white)
 
 ---
