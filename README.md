@@ -8,6 +8,9 @@
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn" height="30"/></a>
       <a href="mailto:josedhernandez@ucompensar.edu.co" target="blank"><img align="center" src="https://img.shields.io/badge/outlook-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" height="30"/></a>
+        <a href="mailto:jh265626@gmail.com" target="blank">
+            <img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+        </a>
       <a href="https://github.com/JoseDHernandez" target="blank"><img align="center"
          src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub" height="30"/></a>
@@ -29,21 +32,41 @@
 
 ### 🚀 Projects:
 
-#### **📚 Platform to Reduce Functional Illiteracy**
-- **Technologies:** HTML, JavaScript, CSS, MySQL, PHP
-- **Description:** Developed an educational platform aimed at improving reading and writing skills using interactive quizzes and educational content.
+#### **🛒 Functional Mockup of a Web Catalog for Dairy Products**
+- **Technologies:** PHP, SQL (Oracle, MySQL)
+- **Description:** Developed a functional mockup for a dairy company's web catalog, starting with Oracle SQL and later migrating to MySQL for optimization and scalability.
+  
+  [View Repository](https://github.com/JoseDHernandez/Lacteos-superior) 
 
-#### **🎮 Cards Against Humanity Prototype**
-- **Technologies:** React, Node.js (Express.js, Socket.io), Tailwind, MySQL
-- **Description:** Created an online multiplayer game based on "Cards Against Humanity" with real-time functionalities.
+---
 
 #### **🎬 Desktop Application for Movie Tickets/Invoices**
 - **Technologies:** Java, MongoDB
 - **Description:** Developed a desktop application for managing movie tickets and invoices, integrating MongoDB using its driver.
+  
+  [View Repository](https://github.com/JoseDHernandez/cinema-in-java) 
 
-#### **🛒 Functional Mockup of a Web Catalog for Dairy Products**
-- **Technologies:** PHP, SQL (Oracle, MySQL)
-- **Description:** Developed a functional mockup for a dairy company's web catalog, starting with Oracle SQL and later migrating to MySQL for optimization and scalability.
+---
+
+#### **🚢🛥️ Naval Battle**
+- **Technologies:** Java
+- **Description:** Developed a game using Java Swing, adapting the original game with submarines, torpedoes, radars, and more.
+  
+  [View Repository](https://github.com/JoseDHernandez/Sea-battle) 
+
+---
+
+#### **🎮 Cards Against Humanity Prototype**
+- **Technologies:** React, Node.js (Express.js, Socket.io), Tailwind, MySQL
+- **Description:** Created an online multiplayer game based on "Cards Against Humanity" with real-time functionalities.
+  
+  [View Repository](https://github.com/JoseDHernandez/Cartas-contra-la-humanidad) 
+
+---
+
+#### **📚 Platform to Reduce Functional Illiteracy**
+- **Technologies:** HTML, JavaScript, CSS, MySQL, PHP
+- **Description:** Developed an educational platform aimed at improving reading and writing skills using interactive quizzes and educational content.
 
 ---
 
@@ -112,6 +135,7 @@
 - **LinkedIn:** [linkedin.com/in/josedhernandezh](https://linkedin.com/in/josedhernandezh)
 - **GitHub:** [github.com/JoseDHernandez](https://github.com/JoseDHernandez)
 - **Email:** [josedhernandez@ucompensar.edu.co](mailto:josedhernandez@ucompensar.edu.co)
+- **Gmail:** [jh265626@gmail.com](mailto:jh265626@gmail.com)
 
 ---
 
