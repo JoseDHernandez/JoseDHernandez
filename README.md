@@ -32,6 +32,14 @@
 
 ### 🚀 Projects:
 
+#### **🎮 Cards Against Humanity Prototype**
+- **Technologies:** React, Node.js (Express.js, Socket.io), Tailwind, MySQL
+- **Description:** Created an online multiplayer game based on "Cards Against Humanity" with real-time functionalities.
+  
+  [View Repository](https://github.com/JoseDHernandez/CCH) 
+
+---
+
 #### **🛒 Functional Mockup of a Web Catalog for Dairy Products**
 - **Technologies:** PHP, SQL (Oracle, MySQL)
 - **Description:** Developed a functional mockup for a dairy company's web catalog, starting with Oracle SQL and later migrating to MySQL for optimization and scalability.
@@ -56,13 +64,6 @@
 
 ---
 
-#### **🎮 Cards Against Humanity Prototype**
-- **Technologies:** React, Node.js (Express.js, Socket.io), Tailwind, MySQL
-- **Description:** Created an online multiplayer game based on "Cards Against Humanity" with real-time functionalities.
-  
-  [View Repository](https://github.com/JoseDHernandez/CCH) 
-
----
 
 #### **📚 Platform to Reduce Functional Illiteracy**
 - **Technologies:** HTML, JavaScript, CSS, MySQL, PHP
