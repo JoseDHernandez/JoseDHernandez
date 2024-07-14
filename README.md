@@ -11,7 +11,7 @@
         <a href="mailto:jh265626@gmail.com" target="blank">
             <img align="center" src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
         </a>
-      <a href="https://github.com/JoseDHernandez" target="blank"><img align="center"
+          <a href="https://github.com/JoseDHernandez" target="blank"><img align="center"
          src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub" height="30"/></a>
     </p>
@@ -60,7 +60,7 @@
 - **Technologies:** React, Node.js (Express.js, Socket.io), Tailwind, MySQL
 - **Description:** Created an online multiplayer game based on "Cards Against Humanity" with real-time functionalities.
   
-  [View Repository](https://github.com/JoseDHernandez/Cartas-contra-la-humanidad) 
+  [View Repository](https://github.com/JoseDHernandez/CCH) 
 
 ---
 
