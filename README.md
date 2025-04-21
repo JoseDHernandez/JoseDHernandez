@@ -31,6 +31,15 @@
 ---
 
 ### 🚀 Projects:
+#### **🎞️ CineFan**
+- **Technologies:** HTML, CSS (Bootstrap), JavaScript.
+- **Description:** I developed a review page about some of my favorite movies.
+  
+  [View Repository](https://github.com/JoseDHernandez/CineFan)
+
+  [Live demo](https://josedhernandez.github.io/CineFan/)
+
+---
 
 #### **🎮 Cards Against Humanity Prototype**
 - **Technologies:** React, Node.js (Express.js, Socket.io), Tailwind, MySQL
