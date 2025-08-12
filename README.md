@@ -55,9 +55,10 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td colspan="3">&nbsp;</td>
   </tr>
-  <!--Fanpage of Cuarteto de Nos-->
+  <!--Fanpage Cuarteto de Nos-->
+ 
   <tr>
-    <td width="300" rowspan="2"><img width="300" height="262" alt="Fanpage of Cuarteto de Nos" src="https://github.com/user-attachments/assets/e35d650c-8712-43b3-9291-364904123ccf" />
+    <td width="300" rowspan="2"><img width="300" height="262" alt="Fanpage of Cuarteto de Nos" src="https://github.com/user-attachments/assets/234ff3d6-b451-416a-8e16-65077a4c3145" />
     </td>
     <td colspan="2">
       <p>
