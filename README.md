@@ -25,6 +25,33 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
 ## Projects
 
 <table>
+ <!--Byte store-->
+  <tr>
+    <td width="300" rowspan="2"><img width="300" height="262" alt="Portfolio" src="https://github.com/user-attachments/assets/c2b92cc2-1735-49ec-be61-496aa65c8338" />
+    </td>
+    <td colspan="2">
+      <p>
+        <b>Byte store</b> <br><br>
+        Byte Store is an e-commerce platform designed to simulate a modern online store. It features dynamic product management, order handling, and a shopping cart. 
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Technologies</b> <br><br>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwind,axios,ts,authjs,figma&theme=dark"/>
+    </td>
+    <td align="right" width="190">
+      <div>
+        <a href="https://github.com/JoseDHernandez/ByteStore">
+          <img width="190" height="45" alt="repository" src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2" />
+        </a> 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
   <!--Portfolio-->
   <tr>
     <td width="300" rowspan="2"><img width="300" height="262" alt="Portfolio" src="https://github.com/user-attachments/assets/2c577fe1-75ad-43a1-9b72-e38ba45ffc9c" />
@@ -39,7 +66,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=astro,figma,git,github,html,md,react,sass&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=astro,figma,html,md,react,sass&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -71,7 +98,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=astro,html,md,react,tailwind&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=astro,html,md,react,tailwind&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -102,7 +129,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=html,bootstrap,javascript&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=html,bootstrap,javascript&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -132,7 +159,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=react,html,express,javascript,nodejs,mysql,tailwind&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=react,html,express,javascript,nodejs,mysql,tailwind,axios,jwt&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -159,7 +186,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=java,mongodb,maven&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java,mongodb,maven,junit&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -186,7 +213,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=java&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -213,7 +240,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=html,javascript,tailwind,mysql,php&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,tailwind,mysql,php&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -240,7 +267,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://skillicons.dev/icons?i=java&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -256,7 +283,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,php,java,ts,html,css,astro,react,tailwind,bootstrap,sass,nodejs,express,mysql,mongodb,git,github,vscode,netlify,cloudflare,md,obsidian&theme=dark&perline=11" /> <br><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,php,java,ts,html,css,astro,react,tailwind,bootstrap,sass,nodejs,express,mysql,mongodb,git,github,vscode,netlify,cloudflare,md,obsidian&theme=dark&perline=11" /> <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDHernandez&layout=compact&theme=radical" alt="José's top languages" />
 </p>
 
