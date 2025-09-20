@@ -22,12 +22,40 @@ I’m a **Software Engineering** student from Colombia with a *Professional Tech
 Passionate about *Web Development*, I enjoy creating solutions that enhance user experience and functionality.
 
 
+
 ## Projects
 
 <table>
+  <!--Byte store API-->
+  <tr>
+    <td width="300" rowspan="2"><img width="300" height="262" alt="Byte store API" src="https://github.com/user-attachments/assets/9c1984c7-1c14-43f8-aa41-2eeeb1da242f" />
+    </td>
+    <td colspan="2">
+      <p>
+        <b>Byte store API</b> <br><br>
+        This is the REST API ("microservices") for Byte Store (client). It includes five "services" and Spanish documentation for each.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Technologies</b> <br><br>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,express,mysql,mongodb,typescript,javascript,jwt,docker&theme=dark&titles=true"/>
+    </td>
+    <td align="right" width="190">
+      <div>
+        <a href="https://github.com/JoseDHernandez/ByteStore-API">
+          <img width="190" height="45" alt="repository" src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2" />
+        </a> 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
  <!--Byte store-->
   <tr>
-    <td width="300" rowspan="2"><img width="300" height="262" alt="Portfolio" src="https://github.com/user-attachments/assets/c2b92cc2-1735-49ec-be61-496aa65c8338" />
+    <td width="300" rowspan="2"><img width="300" height="262" alt="Byte store Client" src="https://github.com/user-attachments/assets/c2b92cc2-1735-49ec-be61-496aa65c8338" />
     </td>
     <td colspan="2">
       <p>
@@ -39,7 +67,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwind,axios,ts,authjs,figma&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwind,axios,ts,authjs,figma&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -66,7 +94,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=astro,figma,html,md,react,sass&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=astro,figma,html,md,react,sass&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -98,7 +126,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=astro,html,md,react,tailwind&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=astro,html,md,react,tailwind&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -129,7 +157,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=html,bootstrap,javascript&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=html,bootstrap,javascript&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -159,7 +187,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=react,html,express,javascript,nodejs,mysql,tailwind,axios,jwt&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=react,html,express,javascript,nodejs,mysql,tailwind,axios,jwt&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -186,7 +214,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java,mongodb,maven,junit&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java,mongodb,maven,junit&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -213,7 +241,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -240,7 +268,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,tailwind,mysql,php&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,tailwind,mysql,php&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -267,7 +295,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
   <tr>
     <td>
       <b>Technologies</b> <br><br>
-      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark"/>
+      <img height="35"  src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark&titles=true"/>
     </td>
     <td align="right" width="190">
       <div>
@@ -283,7 +311,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
 
 
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,php,java,ts,html,css,astro,react,tailwind,bootstrap,sass,nodejs,express,mysql,mongodb,git,github,vscode,netlify,cloudflare,md,obsidian&theme=dark&perline=11" /> <br><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,php,java,ts,html,css,astro,react,tailwind,bootstrap,sass,nodejs,express,nestjs,nextjs,typeorm,mysql,mongodb,axios,git,github,md&theme=dark&perline=11&titles=true" /> <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDHernandez&layout=compact&theme=radical" alt="José's top languages" />
 </p>
 
