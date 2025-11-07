@@ -56,7 +56,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -99,7 +99,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -142,7 +142,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -185,7 +185,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="Live demo"
+            alt="Go to demo"
             src="https://github.com/user-attachments/assets/dbbe992e-6d46-4fd1-a649-1cbaff36ca49"
           />
         </a>
@@ -194,7 +194,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -233,7 +233,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="Live demo"
+            alt="Go to demo"
             src="https://github.com/user-attachments/assets/dbbe992e-6d46-4fd1-a649-1cbaff36ca49"
           />
         </a>
@@ -242,7 +242,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -285,7 +285,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="Live demo"
+            alt="Go to demo"
             src="https://github.com/user-attachments/assets/dbbe992e-6d46-4fd1-a649-1cbaff36ca49"
           />
         </a>
@@ -294,7 +294,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -337,7 +337,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -382,7 +382,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -425,7 +425,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -472,7 +472,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
@@ -516,7 +516,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
           <img
             width="190"
             height="45"
-            alt="repository"
+            alt="Go to repository"
             src="https://github.com/user-attachments/assets/60ab3098-4af8-473e-9fae-c6ffa149c3c2"
           />
         </a>
