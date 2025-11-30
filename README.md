@@ -22,8 +22,6 @@ Programming*.
 
 Passionate about *Web Development*, I enjoy creating solutions that enhance user experience and functionality.
 
-
-
 ## Projects
 
 <table width="100%">
@@ -34,7 +32,7 @@ Passionate about *Web Development*, I enjoy creating solutions that enhance user
         width="300"
         height="262"
         alt="Byte store Android"
-        src="https://github.com/user-attachments/assets/897516bf-e969-4859-8192-4799621679fc"
+        src="https://github.com/user-attachments/assets/21d7ca16-5965-465b-bcdd-a59cc266ccbd"
       />
     </td>
     <td>
